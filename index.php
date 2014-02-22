@@ -1,5 +1,5 @@
 <?php
-$images = glob("shining/*.jpg");
+$images = glob("assets/*.jpg");
 $step   = 1;
 foreach ($images as $id => $image) {
     $css .= "@media (min-width: ".(350+($id*$step))."px) {body{background-image: url('$image');}}";
