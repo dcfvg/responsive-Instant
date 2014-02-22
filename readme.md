@@ -1,5 +1,8 @@
 # Responsive Instant
-> A moment for any screen size.
+> A moment for a screen size.
 
 - seek a video by resizing your window
+- `auto-resize` is an _AppleScript_ that automate window resizing.
 
+### usage
+- add in `assets` folder image from 0000.jpg to 2000.jpg or more
