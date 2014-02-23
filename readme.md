@@ -1,5 +1,5 @@
 # Responsive Instant
-> A moment for a screen size.
+> A moment for a screen size, http://responsive-instant.dcfvg.com
 
 - seek a video by resizing your window
 - `auto-resize` is an _AppleScript_ that automate window resizing.
