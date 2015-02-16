@@ -1,2 +1,4 @@
 *.jpg
 /assets
+
+.DS_Store
