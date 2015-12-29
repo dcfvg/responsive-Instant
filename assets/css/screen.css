@@ -1,0 +1,31 @@
+
+div#preloader {
+  position: absolute;
+  left: -9999px;
+  top:  -9999px;
+}
+div#preloader img {
+  display: block;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  text-align: center;
+}
+
+div#list {
+  text-align: center;
+}
+
+div#help {
+  position: absolute;
+  bottom: 2%;
+  right: 2%;
+  background-color: white;
+  border-radius: 200px;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  font-weight: bold;
+}
